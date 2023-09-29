@@ -1,0 +1,7 @@
+apimServiceName: clemmapimv2
+namedValues:
+loggers:
+diagnostics:
+backends:
+apis:
+  - name: demo-conference-api
