@@ -1,0 +1,19 @@
+{
+  "properties": {
+    "apiRevision": "1",
+    "authenticationSettings": {},
+    "description": "",
+    "displayName": "CrashAPI",
+    "isCurrent": true,
+    "path": "crashapi",
+    "protocols": [
+      "https"
+    ],
+    "serviceUrl": "https://clemmstd.azurewebsites.net:443/api/Get500/triggers/When_a_HTTP_request_is_received/invoke?api-version=2022-05-01\u0026sp=%2Ftriggers%2FWhen_a_HTTP_request_is_received%2Frun\u0026sv=1.0\u0026sig=IGBE1OneZMpvCYC4GLBB2dGefBRymfwyXwBcL4Nsf2s",
+    "subscriptionKeyParameterNames": {
+      "header": "Ocp-Apim-Subscription-Key",
+      "query": "subscription-key"
+    },
+    "subscriptionRequired": false
+  }
+}
