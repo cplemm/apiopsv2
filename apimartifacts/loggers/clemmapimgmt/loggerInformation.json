@@ -1,0 +1,10 @@
+{
+  "properties": {
+    "credentials": {
+      "instrumentationKey": "{{Logger-Credentials--650b05b046346119d4db7844}}"
+    },
+    "isBuffered": true,
+    "loggerType": "applicationInsights",
+    "resourceId": "/subscriptions/38c026b2-80b1-47bc-91e5-67e325df3ee6/resourceGroups/Apim/providers/microsoft.insights/components/clemmapimgmt"
+  }
+}
